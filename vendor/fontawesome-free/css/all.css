@@ -1705,9 +1705,6 @@ readers do not read off random characters that represent icons */
 .fa-grunt:before {
   content: "\f3ad"; }
 
-.fa-gulp:before {
-  content: "\f3ae"; }
-
 .fa-h-square:before {
   content: "\f0fd"; }
 
