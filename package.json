@@ -1,7 +1,6 @@
 {
     "title": "Sarah Smolen",
     "name": "myprofile",
-    "version": "5.0.0",
     "homepage": "https://sarahsmo.github.io/",
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.3.1",
