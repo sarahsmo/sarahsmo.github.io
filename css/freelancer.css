@@ -376,8 +376,3 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
-
-.img-round {
-  max-width: 25%;
-  border-radius: 50%;
-}
