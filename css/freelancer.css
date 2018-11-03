@@ -43,7 +43,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #18BC9C;
+  background-color: #668EB9;
 }
 
 hr.star-dark {
@@ -122,7 +122,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #18BC9C;
+  color: #668EB9;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -130,7 +130,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #18BC9C;
+  color: #668EB9;
 }
 
 #mainNav .navbar-toggler {
@@ -155,11 +155,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #18BC9C;
+    background: #668EB9;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #18BC9C;
+    background: #668EB9;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -314,7 +314,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: #668EB9;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -326,11 +326,11 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #18BC9C;
+  color: #668EB9;
 }
 
 a:focus, a:hover, a:active {
-  color: #128f76;
+  color: #B3C7DC;
 }
 
 .btn {
@@ -338,7 +338,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #18BC9C !important;
+  background-color: #668EB9 !important;
 }
 
 .bg-secondary {
@@ -346,7 +346,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #18BC9C !important;
+  color: #668EB9 !important;
 }
 
 .text-secondary {
@@ -354,13 +354,13 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #668EB9;
+  border-color: #668EB9;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #128f76;
-  border-color: #128f76;
+  background-color: #B3C7DC;
+  border-color: #B3C7DC;
 }
 
 .btn-secondary {
