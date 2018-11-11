@@ -479,7 +479,6 @@ mark,
 }
 
 .portfolio-img {
-  -webkit-filter: brightness(100%);
   max-width: 100%;
   height: auto;
 }
