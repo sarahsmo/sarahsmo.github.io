@@ -478,11 +478,11 @@ mark,
   content: "\2014 \00A0";
 }
 
-.portfolio-img {
+.img-fluid {
   max-width: 100%;
   height: auto;
 }
-.portfolio-img:hover {
+.img-fluid:hover {
   -webkit-filter: brightness(30%);
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
