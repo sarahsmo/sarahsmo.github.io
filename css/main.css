@@ -245,7 +245,7 @@ header.masthead h2 {
 
 .portfolio-modal .portfolio-modal-dialog .close-button {
   position: absolute;
-  top: 2rem;
+  top: 1rem;
   right: 2rem;
 }
 
@@ -350,6 +350,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-secondary {
+  margin-top: 1rem;
   color: #2C3E50 !important;
 }
 
